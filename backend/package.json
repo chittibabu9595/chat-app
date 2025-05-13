@@ -1,4 +1,6 @@
 {
+  "name": "your-project-name",
+  "version": "1.0.1",
   "dependencies": {
     "@faker-js/faker": "^7.6.0",
     "@prisma/client": "^4.9.0",
